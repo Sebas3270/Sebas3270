@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián Álvarez</h1>
-<h3 align="center">Software Engineer with 3+ years of experience developing scalable backend systems using Java, Spring Boot, and Micronaut, along with modern frontend technologies like React, Vue.js and TypeScript. Proven track record of delivering high-impact solutions in enterprise environments, including Oracle, improving system reliability, performance, and cross-platform compatibility. Strong foundation in microservices, CI/CD, and AI-assisted development, with a history of academic excellence and leadership.</h3>
+<h3 align="center">Software Engineer with experience developing scalable backend systems using Java, Spring Boot, and Micronaut, along with modern frontend technologies like React, Vue.js and TypeScript. Proven track record of delivering high-impact solutions in enterprise environments, including Oracle, improving system reliability, performance, and cross-platform compatibility. Strong foundation in microservices, CI/CD, and AI-assisted development, with a history of academic excellence and leadership.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
